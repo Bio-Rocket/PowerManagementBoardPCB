@@ -1,0 +1,9 @@
+[submodule "PowerManagementBoard/PCBDesignRules"]
+	path = PowerManagementBoard/PCBDesignRules
+	url = https://github.com/Bio-Rocket/PCBDesignRules.git
+[submodule "PowerManagementBoard/PCBLayerStackups"]
+	path = LowerPlumbingBayBoard/PCBLayerStackups
+	url = https://github.com/Bio-Rocket/PCBLayerStackups.git
+[submodule "PowerManagementBoard/PCBLibraries"]
+	path = PowerManagementBoard/PCBLibraries
+	url = https://github.com/Bio-Rocket/PCBLibraries.git
